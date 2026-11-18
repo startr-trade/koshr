@@ -21,7 +21,7 @@ PR is accepted only if koshr's ACL allows it and every commit is signed (SSH or 
 bound to the pusher's registered identity. Force-push is refused on protected refs and allowed
 elsewhere, and the attested log keeps the replaced head.
 - `G-6` The native client commits, syncs and rebases against the island, and rejection is immediate and cryptographic
-- `G-7` koshr stays competitive with Jujutsu
+- `G-7` koshr offers the useful features of Jujutsu and other git variants and alternatives that work without changing git clients
 - `G-8` Any koshr serves kanbanr boards and katalogr-indexed repositories through plain git
 - `G-9` Pipelines (CI/CD) and agent runs execute as Sutra BPMN flows on runners koshr drives (the
 operator's own, or provr's fleet). People write YAML compiled to BPMN, Sutra orchestrates, a
