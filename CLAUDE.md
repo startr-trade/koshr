@@ -4,6 +4,8 @@
 
 The board is the system of record for scope, reasoning, progress and documentation. It is a separate git repository beside this one. **Recover from it at the start of every session** and record work there as you go — this block is a pointer, not a copy.
 
+The board is published at <https://github.com/startr-trade/koshr-board>. Clone it beside this repository as `koshr.kanbanr` (`git clone https://github.com/startr-trade/koshr-board ../koshr.kanbanr`) and kanbanr finds it.
+
 **Why this project exists.** koshr is a better git implementation that stays git-compatible for existing tooling: an open-source, self-hostable git server tool with the features of GitHub's and GitLab's software. koshr is a tool, not a service. Hosting and related services are offered only through provr, which runs released koshr unchanged, beside kanbanr, katalogr, Sutra, sutra-voice and honr. It is built on a database-backed distributed code store: centralized truth, cert-leased offline work, verified identity, row-level access control and island-bound, non-repudiable mutations.
 
 **What it commits to** (work items link these by id):
