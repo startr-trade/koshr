@@ -27,6 +27,19 @@ targets. Before opening a pull request, run what CI runs:
 make ci
 ```
 
+## Wording: agents and people
+
+koshr's product text is written so that contributors using any agent framework are at home. Keep
+to these rules in the README, the docs, the interface and the command and API messages:
+
+- Say **agent** (or "your agent") for the autonomous tool, and **the person** or **you** for the
+  human.
+- Name a framework only in its adapter files: the configuration files, hooks or generated
+  instruction blocks that belong to that one framework, and nowhere in product text.
+- Stored values and wire fields are not renamed without a compatibility plan.
+- The archtests in `crates/koshr-archtest` fail on a vendor agent name in product text outside
+  the adapter files. They run in CI, so check them before you open a pull request.
+
 ## Branches and commits
 
 Work on one branch per item. Commits are small, say what changed and why, and name their board
