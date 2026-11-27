@@ -2,5 +2,6 @@
 .claude/settings.local.json
 .claude/worktrees/
 target/
+docs/guide/book/
 __pycache__/
 .pytest_cache/
