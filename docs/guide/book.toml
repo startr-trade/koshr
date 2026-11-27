@@ -1,0 +1,20 @@
+[book]
+title = "koshr"
+description = "A git-compatible, self-hostable code store with signed, verified history"
+authors = ["The koshr Authors"]
+language = "en"
+src = "."
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coal"
+additional-css = ["theme/brand.css"]
+git-repository-url = "https://github.com/startr-trade/koshr"
+edit-url-template = "https://github.com/startr-trade/koshr/edit/main/docs/guide/{path}"
+site-url = "/koshr/"
+
+[output.html.search]
+enable = true
