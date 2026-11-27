@@ -1,4 +1,4 @@
-/* Sigillr brand (provr BRAND.md): Indigo #26317E / Periwinkle #AEB6E8 ink, Saffron accent,
+/* koshr brand (provr BRAND.md): Indigo #26317E / Periwinkle #AEB6E8 ink, Saffron accent,
    White / Night #0F1117 background. mdBook switches themes with a class on <html>, not with
    prefers-color-scheme, so both lockups are in the page and the theme shows one. */
 :root, html.light, html.rust {
@@ -24,7 +24,7 @@ html.ayu .brand-lockup .on-light { display: none; }
 html.coal .brand-lockup .on-dark,
 html.navy .brand-lockup .on-dark,
 html.ayu .brand-lockup .on-dark { display: inline; }
-/* The lockup already says "Sigillr": the heading stays for the table of contents, search and
+/* The lockup already says "koshr": the heading stays for the table of contents, search and
    screen readers, but is not drawn twice. */
 main h1:first-child:has(+ .brand-lockup) {
   position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
