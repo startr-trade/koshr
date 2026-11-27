@@ -18,3 +18,11 @@ Not released yet: there is nothing to install. The work is planned on the
 ## Licence
 
 MIT OR Apache-2.0, at your option.
+
+## Community
+
+- [Contributing](CONTRIBUTING.md)
+- [Security policy](SECURITY.md)
+- [Code of conduct](CODE_OF_CONDUCT.md)
+- [Contributors](CONTRIBUTORS)
+- [MIT licence](LICENSE-MIT) and [Apache-2.0 licence](LICENSE-APACHE)
