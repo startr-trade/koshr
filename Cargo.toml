@@ -14,4 +14,5 @@ homepage = "https://github.com/startr-trade/koshr"
 unsafe_code = "forbid"
 
 [workspace.dependencies]
+clap = { version = "4.5", features = ["derive"] }
 toml = "0.9"
