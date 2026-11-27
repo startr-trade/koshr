@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="koshr mark">
+  <!-- A casket (कोश kośa, a treasury, a store): the code kept safe. The thread comes out of the keyhole to a saffron dot: the signed commit the store lets through. -->
+    <path d="M22 58 V48 C22 24 138 24 138 48 V58 Z" fill="#FFFFFF" stroke="#26317E" stroke-width="5" stroke-linejoin="round"/>
+    <rect x="22" y="58" width="116" height="56" rx="8" fill="#FFFFFF" stroke="#26317E" stroke-width="5"/>
+    <path d="M44 34 V114 M116 34 V114" fill="none" stroke="#26317E" stroke-width="4" stroke-linecap="round"/>
+    <path d="M80 88 V122 C80 132 86 138 96 138 H110" fill="none" stroke="#26317E" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="124" cy="138" r="13" fill="#E8871E"/>
+    <circle cx="80" cy="80" r="8" fill="#FFFFFF" stroke="#26317E" stroke-width="4"/>
+</svg>

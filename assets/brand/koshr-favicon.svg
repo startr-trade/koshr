@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="koshr">
+  <!-- Favicon cut of the mark: heavier strokes, the thread and the saffron dot, so it still reads
+       at 16 px. Theme-aware via prefers-color-scheme. -->
+  <style>
+    .ink    { fill: #26317E; }
+    .line   { stroke: #26317E; }
+    .ground { fill: #FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      .ink    { fill: #AEB6E8; }
+      .line   { stroke: #AEB6E8; }
+      .ground { fill: #0F1117; }
+    }
+  </style>
+  <path class="ground line" d="M10 52 V42 C10 16 118 16 118 42 V52 Z" stroke-width="8" stroke-linejoin="round"/>
+  <rect class="ink" x="6" y="52" width="116" height="50" rx="9"/>
+  <path class="line" d="M64 74 V102 C64 110 70 114 78 114 H88" fill="none" stroke-width="12" stroke-linecap="round"/>
+  <circle class="ground" cx="64" cy="72" r="9"/>
+  <circle cx="104" cy="112" r="14" fill="#E8871E"/>
+</svg>

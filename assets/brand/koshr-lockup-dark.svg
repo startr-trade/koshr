@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" role="img" aria-label="koshr logo (dark)">
+  <!-- The mark, then the thread out of it runs down, along and up to become the headline bar the
+       wordmark hangs from (the same thread that carries every startr.trade lockup), ending in a
+       saffron arrow. -->
+  <g transform="translate(14,20)">
+    <path d="M22 58 V48 C22 24 138 24 138 48 V58 Z" fill="#0F1117" stroke="#AEB6E8" stroke-width="5" stroke-linejoin="round"/>
+    <rect x="22" y="58" width="116" height="56" rx="8" fill="#0F1117" stroke="#AEB6E8" stroke-width="5"/>
+    <path d="M44 34 V114 M116 34 V114" fill="none" stroke="#AEB6E8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="80" cy="80" r="8" fill="#0F1117" stroke="#AEB6E8" stroke-width="4"/>
+  </g>
+  <path d="M94 100 V142 C94 152 100 158 110 158 H140 C170 158 164 52 196 52 H686" fill="none" stroke="#AEB6E8" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="94" cy="100" r="7" fill="#0F1117" stroke="#AEB6E8" stroke-width="4"/>
+  <path d="M686 44 L704 52 L686 60 Z" fill="#F49D1A"/>
+  <text x="212" y="124" font-family="'Noto Sans','Segoe UI',ui-sans-serif,sans-serif"
+        font-size="74" font-weight="700" letter-spacing="1" fill="#EDEFF9">koshr</text>
+  <text x="216" y="166" font-family="'Noto Sans','Segoe UI',ui-sans-serif,sans-serif"
+        font-size="26" fill="#7C82A0"><tspan font-family="'Noto Sans Devanagari','Noto Sans',sans-serif">कोश</tspan> kośa · a treasury, kept</text>
+</svg>
