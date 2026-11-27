@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-label="koshr: A git server that stays git: verified identity, row-level access, every mutation signed.">
+  <!-- GitHub social-preview card (rendered to PNG at 1280x640 by brand.py). -->
+  <rect width="1280" height="640" fill="#0F1117"/>
+  <g transform="translate(90,130) scale(2.4)">
+    <path d="M22 58 V48 C22 24 138 24 138 48 V58 Z" fill="#0F1117" stroke="#AEB6E8" stroke-width="5" stroke-linejoin="round"/>
+    <rect x="22" y="58" width="116" height="56" rx="8" fill="#0F1117" stroke="#AEB6E8" stroke-width="5"/>
+    <path d="M44 34 V114 M116 34 V114" fill="none" stroke="#AEB6E8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M80 88 V122 C80 132 86 138 96 138 H110" fill="none" stroke="#AEB6E8" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="124" cy="138" r="13" fill="#F49D1A"/>
+    <circle cx="80" cy="80" r="8" fill="#0F1117" stroke="#AEB6E8" stroke-width="4"/>
+  </g>
+  <path d="M566 190 H1120" fill="none" stroke="#AEB6E8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1120 180 L1144 190 L1120 200 Z" fill="#F49D1A"/>
+  <text x="566" y="330" font-family="'Noto Sans','Segoe UI',ui-sans-serif,sans-serif"
+        font-size="128" font-weight="700" letter-spacing="2" fill="#EDEFF9">koshr</text>
+  <text x="572" y="392" font-family="'Noto Sans','Segoe UI',ui-sans-serif,sans-serif"
+        font-size="34" fill="#7C82A0"><tspan font-family="'Noto Sans Devanagari','Noto Sans',sans-serif">कोश</tspan> kośa</text>
+  <text x="570" y="470" font-family="'Noto Sans','Segoe UI',ui-sans-serif,sans-serif"
+        font-size="27" fill="#C9CDE4">A git server that stays git: verified identity,</text>
+  <text x="570" y="514" font-family="'Noto Sans','Segoe UI',ui-sans-serif,sans-serif"
+        font-size="27" fill="#C9CDE4">row-level access, every mutation signed.</text>
+  <text x="570" y="586" font-family="'Noto Sans','Segoe UI',ui-sans-serif,sans-serif"
+        font-size="30" letter-spacing="1" fill="#E8871E">koshr.startr.trade</text>
+</svg>
